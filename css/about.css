@@ -1,0 +1,36 @@
+
+#about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 50px;
+    margin-top: 50px;
+}
+.grid{
+    padding: 0 300px 0 700px;
+    display: flex;
+    align-items: center;
+}
+.icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    width: 50px;
+}
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 60px;
+    width: 20vw;
+    padding: 5px;
+}
+
+.movie{
+    padding:30px 200px 20px 750px;
+    width:300px; 
+    height: 150px; 
+}

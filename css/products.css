@@ -1,0 +1,32 @@
+.conteiner{
+    background-color: aliceblue;
+    border-style: dotted;
+    border-color: #ffd3f9;
+    border-radius: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 60px;
+    width: 20vw;
+    padding: 5px;
+    display: flex;
+    margin: 10px;
+}
+.img__products{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    width: 50px;
+}
+.products{
+        margin-top: 60px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+}
+.pro{
+    
+    background-color: #ffd3f9;
+    padding: 0 500px 0 500px;
+}
